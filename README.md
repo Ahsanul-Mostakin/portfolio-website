@@ -12,7 +12,7 @@ A responsive personal portfolio website showcasing my skills, projects, and cont
 - HTML, CSS, JavaScript
 
 ## Live Demo
-[View Portfolio](https://ahsanul-mostakin.github.io/Portfolio-Website/)
+[View Portfolio](https://ahsanul-mostakin.github.io/portfolio-website/)
 
 ---
 
