@@ -16,5 +16,5 @@ A responsive personal portfolio website showcasing my skills, projects, and cont
 
 ---
 
-Made with ❤️ by **Ahsanul Mostakin**  
-🎉 Happy Coding!
+Developed and maintained by Ahsanul Mostakin
+© 2025 — All rights reserved.
